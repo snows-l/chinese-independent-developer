@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 4 月 17 号添加
+#### snows_l(杭州) - [Gitee](https://gitee.com/snows_l)  [博客](http://snows-l.site)
+* :white_check_mark: [个人博客](https://gitee.com/snows_l/Blog)：一个基于前端（vue3+vite+pinia） + 后端（nodejs+exporess） + 数据库（mysql） 全手搓、移动端适配的个人博客 [更多介绍](https://gitee.com/snows_l/Blog/blob/master/README.md)
+
 ### 2025 年 4 月 15 号添加
 #### daya0576(上海) - [博客](https://changchen.me)
 * :white_check_mark: [beaverhabits](https://github.com/daya0576/beaverhabits)：无需设定目标的习惯追踪工具。基于 Python 开发的自托管习惯追踪 Web 应用，帮助用户轻松记录和管理日常习惯。它提供适配移动端的直观界面，专注于习惯的持续养成，而非单纯追求目标达成，让养成好习惯变得更自然
